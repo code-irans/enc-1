@@ -2,6 +2,8 @@
 
 # ENC-1
 
+Text encryption and decryption with enc-1 algorithm
+
 ## COMMANDS
 <pre>
 All Command                                                                                                                                
